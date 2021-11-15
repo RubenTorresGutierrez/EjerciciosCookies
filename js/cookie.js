@@ -1,6 +1,5 @@
 /**
-*   Descripción principal del fichero.
-*   Descripción secundaria.
+*   @file Programa que genera una cookie
 *   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
 *   @license GPL-3.0-or-later
 *   Ref: https://spdx.org/licenses/
